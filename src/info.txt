@@ -1,0 +1,2 @@
+
+This project is a Java application developed for the Dicsys Academy module to practice Git and version control.
